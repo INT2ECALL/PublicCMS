@@ -40,7 +40,7 @@
         <!-- http://hibernate.org/search/releases/ -->
         <version.hibernateSearch>6.1.8.Final</version.hibernateSearch>
         <!-- https://mvnrepository.com/artifact/org.hibernate.validator/hibernate-validator -->
-        <version.hibernateValidator>6.0.23.Final</version.hibernateValidator>
+        <version.hibernateValidator>6.2.5.Final</version.hibernateValidator>
         <!-- http://mvnrepository.com/artifact/org.mybatis/mybatis -->
         <version.mybatis>3.5.11</version.mybatis>
         <!-- http://mvnrepository.com/artifact/org.mybatis/mybatis-spring -->
