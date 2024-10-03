@@ -71,7 +71,7 @@
         <!-- http://hc.apache.org/downloads.cgi -->
         <version.httpclient>4.5.14</version.httpclient>
         <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
-        <version.poi>5.2.3</version.poi>
+        <version.poi>5.2.5</version.poi>
         <!-- https://mvnrepository.com/artifact/fr.opensagres.xdocreport/fr.opensagres.poi.xwpf.converter.xhtml -->
         <version.xhtmlConverter>2.0.4</version.xhtmlConverter>
         <!-- http://mvnrepository.com/artifact/commons-fileupload/commons-fileupload -->
@@ -81,7 +81,7 @@
         <!-- http://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
         <version.lang>3.12.0</version.lang>
         <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
-        <version.io>2.11.0</version.io>
+        <version.io>2.14.0</version.io>
         <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-text -->
         <version.text>1.10.0</version.text>
         <!-- http://mvnrepository.com/artifact/commons-codec/commons-codec -->
