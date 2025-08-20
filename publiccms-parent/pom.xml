@@ -25,7 +25,7 @@
         <version.servlet>4.0.1</version.servlet>
         <!-- http://mvnrepository.com/artifact/org.springframework/spring-core -->
         <!-- https://spring.io/projects/spring-framework -->
-        <version.spring>5.3.25</version.spring>
+        <version.spring>6.2.10</version.spring>
         <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
         <!-- https://spring.io/projects/spring-boot -->
         <version.springBoot>2.7.8</version.springBoot>
@@ -105,7 +105,7 @@
         <!-- https://mvnrepository.com/artifact/jakarta.annotation/jakarta.annotation-api -->
         <version.annotation>1.3.5</version.annotation>
         <!-- https://mvnrepository.com/artifact/jakarta.mail/jakarta.mail-api -->
-        <version.mail>1.6.7</version.mail>
+        <version.mail>1.6.8</version.mail>
         <!-- http://mvnrepository.com/artifact/org.apache.ant/ant -->
         <version.ant>1.10.13</version.ant>
         <!-- http://mvnrepository.com/artifact/javax.transaction/jta -->
